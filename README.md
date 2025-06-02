@@ -1,5 +1,7 @@
+# Name: Diviya Dharshini.A
+# Reg no:212224040080
+# Date:04.03.25
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
-# Date:
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
